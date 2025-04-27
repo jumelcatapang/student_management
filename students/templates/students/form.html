@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% if form.instance.pk %}Edit{% else %}Add{% endif %} Student</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background: #f8f9fa;
+            color: #000;
+        }
+
+        header,
+        footer {
+            background-color: #000;
+        }
+
+        h1 {
+            color: #ffa500;
+        }
+
+        .btn-primary,
+        .btn-success,
+        .btn-warning {
+            background-color: #ffa500;
+            border: none;
+        }
+
+        .btn-primary:hover,
+        .btn-success:hover,
+        .btn-warning:hover {
+            background-color: #ff8c00;
+        }
+
+        .card {
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .form-label {
+            font-weight: 500;
+        }
+
+        .form-control[readonly] {
+            background-color: #e9ecef;
+            opacity: 1;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header class="bg-dark text-white text-center py-3">
+        <h1>Student Management System</h1>
+        <p>{% if form.instance.pk %}Edit{% else %}Add{% endif %} Student Details</p>
+    </header>
+
+    <div class="container mt-5">
+        <div class="card p-4 mx-auto" style="max-width: 500px;">
+            <h3 class="text-center mb-4" id="pageTitle">Add Student</h3>
+
+            <form method="post">
+                {% csrf_token %}
+                {{ form.non_field_errors }}
+
+                {% for field in form %}
+                <div class="mb-3">
+                    <label class="form-label">{{ field.label }}</label>
+
+                    <!-- Add placeholder for specific fields -->
+                    {% if field.name == 'name' %}
+                    <input type="text" class="form-control" name="{{ field.name }}" placeholder="Ex. Juan Dela Cruz"
+                        value="{{ field.value|default:'' }}" />
+                    {% elif field.name == 'address' %}
+                    <input type="text" class="form-control" name="{{ field.name }}" placeholder="Ex. 123 poblacion St., Malabon City"
+                        value="{{ field.value|default:'' }}" />
+                    {% elif field.name == 'email' %}
+                    <input type="email" class="form-control" name="{{ field.name }}" placeholder="Ex. juan@gmail.com"
+                        value="{{ field.value|default:'' }}" />
+                    {% elif field.name == 'interest' %}
+                    <input type="text" class="form-control" name="{{ field.name }}" placeholder="Ex. coding, programming, etc."
+                        value="{{ field.value|default:'' }}" />
+                    {% else %}
+                    {{ field }}
+                    {% endif %}
+
+                    {{ field.errors }}
+
+                    <script>
+                        document.addEventListener('DOMContentLoaded', function () {
+                            var input = document.getElementById("id_{{ field.name }}");
+                            if (input) {
+                                input.classList.add("form-control");
+                            }
+                        });
+                    </script>
+                </div>
+                {% endfor %}
+
+                <div class="d-flex justify-content-between">
+                    <button type="submit" class="btn btn-success">Save</button>
+                    <a href="{% url 'home' %}" class="btn btn-secondary">Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+
+    <footer class="bg-dark text-white text-center py-3 mt-5">
+        <small>© 2025 ADET Project - All rights reserved.</small>
+    </footer>
+
+</body>
+
+</html>
