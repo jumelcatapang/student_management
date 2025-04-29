@@ -1,0 +1,1001 @@
+Age,Gender,Interest,Course
+18,Male,cybersecurity,Accountancy
+24,Male,business,Financial Management
+16,Male,politics,Political Science
+22,Female,children,Political Science
+29,Female,teaching,Education
+27,Male,politics,Political Science
+24,Male,law enforcement,Criminology
+19,Male,investigation,Criminology
+27,Male,cybersecurity,Education
+22,Male,cybersecurity,Criminology
+21,Female,public speaking,Criminology
+20,Male,philosophy,Political Science
+24,Female,social issues,Social Work
+16,Male,sports,Education
+19,Female,children,Political Science
+20,Male,networking,BSIT
+22,Female,children,Financial Management
+30,Male,cybersecurity,Financial Management
+29,Male,finance,Financial Management
+19,Female,community service,Social Work
+22,Female,arts,Financial Management
+21,Female,education,Education
+29,Male,philosophy,Political Science
+27,Female,teaching,Education
+27,Male,philosophy,Political Science
+18,Male,gaming,BSIT
+27,Male,entrepreneurship,Education
+20,Female,public speaking,Accountancy
+27,Female,teaching,Education
+26,Female,arts,Education
+17,Female,public speaking,BSIT
+18,Male,politics,Political Science
+30,Male,sports,Education
+18,Male,cybersecurity,Education
+26,Male,investigation,Criminology
+21,Male,politics,Political Science
+29,Female,social issues,Social Work
+21,Male,cybersecurity,Education
+25,Male,history,Political Science
+16,Female,social issues,Social Work
+16,Female,arts,Social Work
+19,Female,arts,BSIT
+29,Male,law enforcement,Criminology
+20,Female,children,BSIT
+22,Male,philosophy,Political Science
+19,Female,public speaking,Education
+22,Male,cybersecurity,Social Work
+24,Female,arts,Financial Management
+16,Female,arts,BSIT
+27,Female,community service,Social Work
+26,Female,arts,Financial Management
+16,Male,investigation,Criminology
+18,Female,social issues,Social Work
+20,Male,philosophy,Political Science
+27,Male,cybersecurity,Accountancy
+22,Male,politics,Political Science
+17,Female,community service,Social Work
+21,Male,philosophy,Political Science
+24,Female,social issues,Social Work
+20,Male,tech,BSIT
+29,Female,community service,Social Work
+21,Female,psychology,Social Work
+28,Male,gaming,BSIT
+18,Female,community service,Social Work
+23,Male,networking,BSIT
+16,Female,teaching,Education
+21,Female,social issues,Social Work
+18,Male,law enforcement,Criminology
+25,Male,gaming,BSIT
+24,Female,arts,Education
+19,Female,accounting,Accountancy
+16,Male,entrepreneurship,BSIT
+27,Female,public speaking,BSIT
+17,Male,entrepreneurship,Education
+24,Female,psychology,BSIT
+28,Male,law enforcement,Criminology
+29,Female,teaching,Education
+25,Female,children,Accountancy
+30,Male,tech,BSIT
+28,Male,networking,BSIT
+27,Male,tech,BSIT
+21,Male,cybersecurity,Political Science
+26,Male,law enforcement,Criminology
+16,Female,teaching,Education
+16,Female,teaching,Education
+30,Male,history,Political Science
+27,Male,networking,BSIT
+27,Female,psychology,BSIT
+29,Male,sports,Criminology
+16,Female,arts,Political Science
+28,Female,children,Education
+22,Male,law enforcement,Criminology
+20,Male,tech,BSIT
+21,Male,sports,Social Work
+24,Female,education,Education
+24,Female,arts,Financial Management
+28,Female,public speaking,Social Work
+18,Female,children,Financial Management
+17,Male,history,Political Science
+20,Female,education,Education
+27,Female,teaching,Education
+29,Male,networking,BSIT
+16,Male,history,Political Science
+22,Male,philosophy,Political Science
+26,Female,accounting,Accountancy
+21,Male,tech,BSIT
+28,Female,accounting,Accountancy
+20,Male,philosophy,Political Science
+26,Male,finance,Financial Management
+25,Male,tech,BSIT
+28,Male,tech,BSIT
+27,Female,community service,Social Work
+18,Male,business,Financial Management
+26,Female,public speaking,Accountancy
+16,Male,gaming,BSIT
+20,Male,gaming,BSIT
+30,Male,networking,BSIT
+22,Female,arts,Financial Management
+19,Female,community service,Social Work
+27,Male,cybersecurity,Financial Management
+16,Female,arts,Social Work
+25,Female,arts,Accountancy
+20,Male,business,Financial Management
+30,Male,entrepreneurship,BSIT
+24,Male,tech,BSIT
+18,Male,gaming,BSIT
+27,Male,law enforcement,Criminology
+26,Female,social issues,Social Work
+21,Female,public speaking,Education
+24,Male,philosophy,Political Science
+23,Male,history,Political Science
+17,Male,investigation,Criminology
+22,Male,law enforcement,Criminology
+18,Male,finance,Financial Management
+20,Female,social issues,Social Work
+18,Male,investigation,Criminology
+24,Female,teaching,Education
+19,Male,cybersecurity,Education
+26,Female,education,Education
+29,Male,sports,Education
+28,Male,investigation,Criminology
+22,Female,children,BSIT
+16,Male,finance,Financial Management
+26,Male,tech,BSIT
+20,Male,finance,Financial Management
+29,Male,entrepreneurship,Financial Management
+18,Male,tech,BSIT
+20,Female,public speaking,Education
+28,Male,cybersecurity,Social Work
+29,Male,entrepreneurship,Accountancy
+30,Male,investigation,Criminology
+25,Male,business,Financial Management
+21,Male,tech,BSIT
+22,Female,public speaking,Financial Management
+18,Male,philosophy,Political Science
+23,Female,psychology,Accountancy
+21,Female,accounting,Accountancy
+21,Female,education,Education
+28,Male,sports,BSIT
+29,Female,public speaking,Accountancy
+25,Female,public speaking,Political Science
+16,Male,philosophy,Political Science
+27,Female,children,Social Work
+29,Female,numbers,Accountancy
+19,Male,history,Political Science
+28,Male,law enforcement,Criminology
+21,Female,public speaking,Criminology
+17,Male,philosophy,Political Science
+19,Male,politics,Political Science
+22,Male,cybersecurity,Accountancy
+28,Female,numbers,Accountancy
+21,Male,business,Financial Management
+17,Female,public speaking,Social Work
+23,Female,children,Political Science
+23,Female,public speaking,Accountancy
+26,Female,accounting,Accountancy
+17,Male,law enforcement,Criminology
+17,Female,psychology,Criminology
+20,Male,tech,BSIT
+20,Female,psychology,Social Work
+16,Female,children,Education
+26,Male,sports,Accountancy
+22,Male,law enforcement,Criminology
+18,Female,community service,Social Work
+28,Male,entrepreneurship,BSIT
+30,Female,teaching,Education
+25,Male,cybersecurity,Accountancy
+27,Male,business,Financial Management
+19,Male,tech,BSIT
+22,Female,community service,Social Work
+17,Male,philosophy,Political Science
+20,Male,investigation,Criminology
+30,Male,gaming,BSIT
+24,Female,arts,Accountancy
+26,Female,numbers,Accountancy
+19,Male,cybersecurity,Accountancy
+23,Female,psychology,Social Work
+19,Female,community service,Social Work
+18,Female,community service,Social Work
+27,Female,numbers,Accountancy
+24,Female,psychology,Financial Management
+19,Male,history,Political Science
+19,Female,children,Political Science
+18,Male,gaming,BSIT
+16,Male,cybersecurity,Financial Management
+21,Male,business,Financial Management
+27,Female,children,Education
+30,Male,history,Political Science
+30,Female,accounting,Accountancy
+28,Female,accounting,Accountancy
+22,Female,public speaking,BSIT
+20,Male,business,Financial Management
+29,Female,education,Education
+22,Female,accounting,Accountancy
+18,Female,social issues,Social Work
+22,Male,networking,BSIT
+22,Male,tech,BSIT
+24,Male,tech,BSIT
+16,Male,sports,Criminology
+21,Male,investigation,Criminology
+17,Male,tech,BSIT
+24,Female,arts,Social Work
+30,Female,arts,Accountancy
+24,Male,entrepreneurship,Political Science
+25,Male,business,Financial Management
+18,Male,gaming,BSIT
+17,Male,history,Political Science
+27,Female,numbers,Accountancy
+26,Male,business,Financial Management
+20,Male,networking,BSIT
+21,Male,finance,Financial Management
+26,Female,community service,Social Work
+27,Male,gaming,BSIT
+20,Male,gaming,BSIT
+28,Male,entrepreneurship,Financial Management
+16,Female,community service,Social Work
+16,Female,numbers,Accountancy
+27,Male,gaming,BSIT
+24,Male,investigation,Criminology
+30,Male,law enforcement,Criminology
+30,Male,tech,BSIT
+26,Male,sports,Social Work
+19,Female,children,Accountancy
+23,Female,psychology,Political Science
+20,Female,accounting,Accountancy
+30,Female,numbers,Accountancy
+29,Female,accounting,Accountancy
+17,Female,public speaking,Social Work
+19,Female,public speaking,Criminology
+18,Male,tech,BSIT
+29,Female,accounting,Accountancy
+16,Male,finance,Financial Management
+18,Female,children,BSIT
+27,Male,finance,Financial Management
+24,Male,cybersecurity,Education
+21,Female,numbers,Accountancy
+26,Female,psychology,Criminology
+29,Female,accounting,Accountancy
+26,Female,education,Education
+18,Female,accounting,Accountancy
+27,Male,politics,Political Science
+16,Male,business,Financial Management
+27,Male,tech,BSIT
+29,Female,arts,Criminology
+27,Female,numbers,Accountancy
+18,Female,education,Education
+27,Male,gaming,BSIT
+23,Female,community service,Social Work
+20,Female,psychology,Social Work
+22,Female,teaching,Education
+19,Male,finance,Financial Management
+27,Female,education,Education
+20,Female,social issues,Social Work
+30,Female,education,Education
+30,Male,tech,BSIT
+16,Female,community service,Social Work
+30,Female,community service,Social Work
+29,Female,social issues,Social Work
+29,Female,psychology,Social Work
+23,Female,community service,Social Work
+18,Female,children,Financial Management
+28,Male,philosophy,Political Science
+18,Male,entrepreneurship,BSIT
+24,Male,tech,BSIT
+29,Male,philosophy,Political Science
+16,Male,tech,BSIT
+26,Female,children,Political Science
+23,Female,psychology,Political Science
+27,Female,public speaking,Accountancy
+21,Female,arts,Political Science
+21,Male,tech,BSIT
+16,Male,philosophy,Political Science
+20,Female,accounting,Accountancy
+23,Male,gaming,BSIT
+24,Female,teaching,Education
+18,Female,arts,BSIT
+30,Male,investigation,Criminology
+25,Female,numbers,Accountancy
+26,Male,finance,Financial Management
+29,Female,numbers,Accountancy
+25,Female,education,Education
+24,Female,teaching,Education
+20,Male,law enforcement,Criminology
+19,Female,psychology,Criminology
+22,Male,tech,BSIT
+30,Female,children,BSIT
+26,Male,entrepreneurship,Criminology
+28,Male,investigation,Criminology
+25,Female,teaching,Education
+30,Female,psychology,Financial Management
+29,Female,accounting,Accountancy
+17,Female,teaching,Education
+26,Female,arts,Accountancy
+24,Male,gaming,BSIT
+24,Female,accounting,Accountancy
+19,Male,finance,Financial Management
+28,Female,children,BSIT
+18,Male,business,Financial Management
+21,Male,tech,BSIT
+16,Female,social issues,Social Work
+25,Female,social issues,Social Work
+28,Male,investigation,Criminology
+17,Female,numbers,Accountancy
+17,Female,children,Education
+24,Female,community service,Social Work
+21,Female,education,Education
+24,Female,arts,BSIT
+19,Female,education,Education
+25,Female,education,Education
+22,Female,children,Criminology
+25,Female,accounting,Accountancy
+27,Male,finance,Financial Management
+19,Female,children,Financial Management
+24,Male,finance,Financial Management
+23,Female,teaching,Education
+25,Female,education,Education
+21,Female,children,Political Science
+16,Female,education,Education
+28,Female,numbers,Accountancy
+20,Male,law enforcement,Criminology
+29,Male,sports,Social Work
+24,Female,public speaking,Criminology
+30,Female,social issues,Social Work
+24,Female,education,Education
+19,Male,networking,BSIT
+29,Male,tech,BSIT
+27,Female,children,Accountancy
+21,Male,finance,Financial Management
+27,Male,networking,BSIT
+23,Female,education,Education
+16,Female,community service,Social Work
+17,Male,tech,BSIT
+16,Female,psychology,Social Work
+22,Male,law enforcement,Criminology
+28,Male,politics,Political Science
+29,Female,psychology,Education
+24,Male,investigation,Criminology
+22,Female,public speaking,Social Work
+24,Female,teaching,Education
+28,Male,tech,BSIT
+29,Male,politics,Political Science
+30,Female,social issues,Social Work
+17,Male,tech,BSIT
+23,Male,entrepreneurship,Accountancy
+24,Male,law enforcement,Criminology
+27,Female,community service,Social Work
+25,Male,investigation,Criminology
+17,Male,philosophy,Political Science
+30,Male,cybersecurity,Accountancy
+23,Male,gaming,BSIT
+22,Male,cybersecurity,Criminology
+24,Female,arts,Financial Management
+29,Female,arts,Criminology
+29,Male,politics,Political Science
+28,Male,investigation,Criminology
+30,Male,sports,Financial Management
+17,Male,tech,BSIT
+28,Female,social issues,Social Work
+26,Female,children,Financial Management
+17,Female,arts,Social Work
+16,Female,teaching,Education
+26,Male,law enforcement,Criminology
+17,Male,sports,Accountancy
+29,Female,social issues,Social Work
+18,Male,history,Political Science
+23,Male,tech,BSIT
+27,Female,community service,Social Work
+16,Male,tech,BSIT
+26,Female,education,Education
+20,Male,networking,BSIT
+24,Female,public speaking,Criminology
+22,Female,psychology,Social Work
+20,Female,social issues,Social Work
+21,Female,psychology,Social Work
+24,Male,sports,Accountancy
+21,Male,finance,Financial Management
+16,Male,finance,Financial Management
+28,Female,children,Financial Management
+21,Female,social issues,Social Work
+23,Male,entrepreneurship,Political Science
+17,Male,politics,Political Science
+22,Female,arts,Financial Management
+18,Female,children,Criminology
+20,Male,philosophy,Political Science
+26,Female,psychology,Criminology
+16,Female,arts,BSIT
+27,Male,history,Political Science
+18,Female,arts,BSIT
+24,Female,accounting,Accountancy
+29,Female,numbers,Accountancy
+16,Female,social issues,Social Work
+26,Female,community service,Social Work
+22,Female,social issues,Social Work
+24,Male,politics,Political Science
+30,Female,numbers,Accountancy
+19,Male,networking,BSIT
+24,Male,gaming,BSIT
+27,Female,teaching,Education
+20,Male,philosophy,Political Science
+28,Male,philosophy,Political Science
+16,Male,philosophy,Political Science
+21,Female,community service,Social Work
+23,Male,history,Political Science
+24,Female,children,Social Work
+23,Female,social issues,Social Work
+28,Male,sports,Accountancy
+21,Male,history,Political Science
+22,Male,networking,BSIT
+23,Male,politics,Political Science
+18,Female,children,Criminology
+25,Female,community service,Social Work
+27,Female,numbers,Accountancy
+18,Male,politics,Political Science
+21,Male,business,Financial Management
+21,Female,social issues,Social Work
+30,Female,public speaking,Education
+24,Male,entrepreneurship,Political Science
+30,Female,social issues,Social Work
+29,Female,social issues,Social Work
+27,Male,sports,Accountancy
+16,Female,psychology,Accountancy
+28,Female,public speaking,BSIT
+19,Male,law enforcement,Criminology
+16,Male,cybersecurity,Accountancy
+24,Male,entrepreneurship,Financial Management
+22,Female,psychology,Political Science
+17,Male,gaming,BSIT
+16,Male,law enforcement,Criminology
+24,Female,arts,BSIT
+28,Female,social issues,Social Work
+23,Male,philosophy,Political Science
+26,Female,accounting,Accountancy
+24,Female,public speaking,BSIT
+25,Female,numbers,Accountancy
+21,Male,cybersecurity,BSIT
+18,Female,social issues,Social Work
+20,Female,psychology,Accountancy
+26,Male,tech,BSIT
+16,Male,sports,Education
+27,Male,entrepreneurship,Education
+21,Female,arts,Social Work
+18,Male,entrepreneurship,Political Science
+23,Female,psychology,Education
+18,Male,business,Financial Management
+16,Male,philosophy,Political Science
+24,Male,entrepreneurship,Criminology
+20,Female,education,Education
+20,Male,finance,Financial Management
+18,Male,philosophy,Political Science
+20,Female,arts,Accountancy
+20,Male,cybersecurity,Education
+28,Female,numbers,Accountancy
+19,Male,sports,Accountancy
+20,Female,accounting,Accountancy
+24,Female,psychology,BSIT
+16,Female,arts,BSIT
+18,Female,arts,Education
+30,Female,psychology,Accountancy
+17,Female,community service,Social Work
+25,Female,community service,Social Work
+16,Male,investigation,Criminology
+18,Male,cybersecurity,Social Work
+16,Male,business,Financial Management
+21,Female,children,BSIT
+16,Female,children,BSIT
+27,Male,finance,Financial Management
+24,Male,law enforcement,Criminology
+30,Female,accounting,Accountancy
+29,Male,entrepreneurship,Social Work
+25,Female,social issues,Social Work
+23,Male,history,Political Science
+27,Male,philosophy,Political Science
+24,Male,gaming,BSIT
+25,Female,arts,Criminology
+17,Female,psychology,Criminology
+21,Male,tech,BSIT
+29,Female,education,Education
+22,Female,social issues,Social Work
+25,Female,children,Education
+21,Male,networking,BSIT
+25,Female,teaching,Education
+29,Male,finance,Financial Management
+21,Male,history,Political Science
+16,Male,cybersecurity,Criminology
+21,Female,accounting,Accountancy
+18,Female,psychology,Political Science
+17,Female,social issues,Social Work
+19,Female,social issues,Social Work
+22,Female,teaching,Education
+20,Male,philosophy,Political Science
+22,Male,politics,Political Science
+17,Female,education,Education
+22,Male,law enforcement,Criminology
+17,Male,law enforcement,Criminology
+24,Male,cybersecurity,Criminology
+24,Female,education,Education
+29,Female,arts,BSIT
+21,Female,children,Education
+24,Male,finance,Financial Management
+16,Female,psychology,Financial Management
+21,Male,gaming,BSIT
+18,Female,arts,Accountancy
+27,Male,networking,BSIT
+21,Female,teaching,Education
+21,Male,law enforcement,Criminology
+30,Female,children,Financial Management
+20,Female,children,Education
+23,Male,finance,Financial Management
+17,Female,social issues,Social Work
+19,Female,community service,Social Work
+24,Female,social issues,Social Work
+29,Male,gaming,BSIT
+26,Female,education,Education
+21,Male,entrepreneurship,BSIT
+21,Male,sports,Social Work
+23,Male,law enforcement,Criminology
+23,Female,community service,Social Work
+26,Male,cybersecurity,Criminology
+24,Female,teaching,Education
+23,Female,social issues,Social Work
+29,Male,cybersecurity,BSIT
+16,Female,children,Political Science
+17,Female,social issues,Social Work
+28,Male,entrepreneurship,Accountancy
+18,Male,finance,Financial Management
+29,Male,finance,Financial Management
+23,Female,public speaking,Education
+24,Female,public speaking,BSIT
+22,Male,philosophy,Political Science
+17,Female,public speaking,Social Work
+21,Male,business,Financial Management
+28,Female,numbers,Accountancy
+19,Male,business,Financial Management
+25,Male,entrepreneurship,Education
+20,Female,children,Accountancy
+29,Female,education,Education
+19,Male,business,Financial Management
+29,Male,law enforcement,Criminology
+18,Male,cybersecurity,Financial Management
+28,Male,entrepreneurship,Social Work
+27,Male,cybersecurity,Financial Management
+17,Male,politics,Political Science
+27,Female,public speaking,Accountancy
+21,Female,numbers,Accountancy
+24,Female,social issues,Social Work
+19,Female,numbers,Accountancy
+16,Male,gaming,BSIT
+27,Male,gaming,BSIT
+27,Female,accounting,Accountancy
+22,Female,teaching,Education
+24,Male,entrepreneurship,Criminology
+17,Male,philosophy,Political Science
+18,Male,business,Financial Management
+17,Male,networking,BSIT
+23,Male,philosophy,Political Science
+26,Female,accounting,Accountancy
+27,Female,teaching,Education
+25,Female,teaching,Education
+18,Male,philosophy,Political Science
+17,Male,business,Financial Management
+29,Male,networking,BSIT
+26,Female,arts,Accountancy
+22,Female,arts,Education
+18,Male,philosophy,Political Science
+25,Female,teaching,Education
+23,Male,politics,Political Science
+16,Male,finance,Financial Management
+19,Male,history,Political Science
+27,Female,psychology,Criminology
+25,Female,arts,Social Work
+25,Female,arts,BSIT
+30,Female,children,Accountancy
+29,Female,social issues,Social Work
+26,Male,sports,Criminology
+29,Male,entrepreneurship,Criminology
+19,Female,arts,Financial Management
+30,Female,children,Political Science
+21,Male,networking,BSIT
+18,Male,law enforcement,Criminology
+27,Male,investigation,Criminology
+19,Male,philosophy,Political Science
+27,Female,psychology,Social Work
+19,Male,cybersecurity,Criminology
+23,Female,social issues,Social Work
+18,Male,finance,Financial Management
+17,Male,investigation,Criminology
+19,Male,law enforcement,Criminology
+30,Female,education,Education
+20,Female,public speaking,Financial Management
+17,Male,history,Political Science
+22,Male,history,Political Science
+22,Male,tech,BSIT
+17,Male,finance,Financial Management
+28,Male,cybersecurity,Social Work
+17,Male,entrepreneurship,Social Work
+25,Male,tech,BSIT
+26,Female,arts,Education
+16,Male,cybersecurity,Accountancy
+20,Female,social issues,Social Work
+22,Male,law enforcement,Criminology
+20,Female,accounting,Accountancy
+28,Female,social issues,Social Work
+29,Female,social issues,Social Work
+24,Female,education,Education
+23,Female,children,Accountancy
+26,Female,teaching,Education
+21,Female,teaching,Education
+30,Male,entrepreneurship,Financial Management
+29,Male,politics,Political Science
+18,Male,tech,BSIT
+21,Female,community service,Social Work
+19,Female,children,Accountancy
+29,Male,cybersecurity,Financial Management
+30,Female,education,Education
+18,Male,philosophy,Political Science
+21,Female,children,Financial Management
+29,Female,accounting,Accountancy
+16,Female,education,Education
+20,Male,networking,BSIT
+19,Male,gaming,BSIT
+22,Male,business,Financial Management
+26,Male,cybersecurity,Political Science
+16,Male,law enforcement,Criminology
+23,Male,entrepreneurship,Accountancy
+28,Female,numbers,Accountancy
+16,Male,politics,Political Science
+29,Female,accounting,Accountancy
+18,Male,tech,BSIT
+23,Female,social issues,Social Work
+29,Female,children,Accountancy
+17,Male,philosophy,Political Science
+20,Female,social issues,Social Work
+26,Female,teaching,Education
+27,Male,history,Political Science
+27,Male,gaming,BSIT
+26,Male,politics,Political Science
+28,Male,tech,BSIT
+27,Male,gaming,BSIT
+19,Female,social issues,Social Work
+23,Male,history,Political Science
+23,Female,teaching,Education
+18,Male,finance,Financial Management
+25,Female,teaching,Education
+22,Female,accounting,Accountancy
+26,Male,networking,BSIT
+19,Female,numbers,Accountancy
+21,Female,community service,Social Work
+28,Female,community service,Social Work
+21,Female,teaching,Education
+19,Female,arts,Financial Management
+26,Female,public speaking,BSIT
+22,Male,law enforcement,Criminology
+17,Female,numbers,Accountancy
+18,Female,numbers,Accountancy
+16,Female,psychology,Political Science
+16,Female,teaching,Education
+30,Male,tech,BSIT
+29,Male,cybersecurity,Political Science
+26,Female,arts,Political Science
+23,Female,psychology,Education
+16,Female,social issues,Social Work
+21,Female,social issues,Social Work
+17,Female,community service,Social Work
+19,Male,tech,BSIT
+28,Female,numbers,Accountancy
+19,Male,networking,BSIT
+30,Male,tech,BSIT
+30,Female,community service,Social Work
+19,Female,arts,Social Work
+28,Female,education,Education
+16,Female,numbers,Accountancy
+18,Female,children,Social Work
+16,Female,education,Education
+21,Female,social issues,Social Work
+23,Male,politics,Political Science
+19,Male,philosophy,Political Science
+23,Male,sports,BSIT
+27,Female,children,Accountancy
+17,Male,gaming,BSIT
+26,Female,education,Education
+24,Female,education,Education
+23,Female,teaching,Education
+24,Male,philosophy,Political Science
+21,Female,arts,Financial Management
+23,Male,investigation,Criminology
+19,Female,social issues,Social Work
+17,Male,history,Political Science
+20,Female,teaching,Education
+26,Male,gaming,BSIT
+18,Female,numbers,Accountancy
+30,Male,business,Financial Management
+21,Male,investigation,Criminology
+25,Male,gaming,BSIT
+24,Female,arts,Financial Management
+21,Male,entrepreneurship,Education
+21,Female,children,Education
+20,Female,accounting,Accountancy
+29,Male,law enforcement,Criminology
+16,Female,education,Education
+29,Female,numbers,Accountancy
+24,Male,gaming,BSIT
+21,Male,tech,BSIT
+20,Female,arts,Criminology
+28,Male,politics,Political Science
+23,Female,children,Financial Management
+25,Female,public speaking,Education
+24,Female,social issues,Social Work
+30,Male,investigation,Criminology
+22,Male,law enforcement,Criminology
+21,Male,history,Political Science
+16,Male,entrepreneurship,BSIT
+20,Male,history,Political Science
+16,Male,sports,Political Science
+17,Female,social issues,Social Work
+22,Male,cybersecurity,Social Work
+16,Female,psychology,Social Work
+24,Male,entrepreneurship,Political Science
+21,Male,law enforcement,Criminology
+25,Male,gaming,BSIT
+25,Female,community service,Social Work
+30,Male,business,Financial Management
+29,Male,philosophy,Political Science
+21,Female,psychology,Financial Management
+24,Female,psychology,Social Work
+23,Female,social issues,Social Work
+22,Female,education,Education
+24,Male,politics,Political Science
+25,Female,community service,Social Work
+16,Male,entrepreneurship,Political Science
+29,Male,sports,Accountancy
+16,Male,business,Financial Management
+25,Male,business,Financial Management
+24,Female,numbers,Accountancy
+23,Female,accounting,Accountancy
+22,Male,finance,Financial Management
+16,Male,tech,BSIT
+30,Female,children,Financial Management
+22,Male,philosophy,Political Science
+25,Male,law enforcement,Criminology
+28,Male,gaming,BSIT
+29,Female,arts,Criminology
+19,Male,entrepreneurship,Political Science
+17,Male,networking,BSIT
+23,Male,gaming,BSIT
+18,Female,accounting,Accountancy
+23,Female,social issues,Social Work
+22,Male,cybersecurity,Financial Management
+29,Female,children,Criminology
+27,Male,gaming,BSIT
+19,Female,public speaking,Financial Management
+23,Female,numbers,Accountancy
+27,Female,social issues,Social Work
+16,Male,sports,Financial Management
+26,Male,history,Political Science
+24,Male,entrepreneurship,Education
+27,Female,community service,Social Work
+27,Female,public speaking,Political Science
+20,Female,children,Social Work
+23,Male,sports,Social Work
+16,Male,tech,BSIT
+16,Male,law enforcement,Criminology
+24,Male,politics,Political Science
+23,Female,numbers,Accountancy
+19,Male,tech,BSIT
+18,Male,entrepreneurship,Social Work
+28,Male,cybersecurity,Education
+21,Female,arts,Political Science
+28,Female,education,Education
+28,Male,entrepreneurship,BSIT
+17,Male,law enforcement,Criminology
+17,Male,entrepreneurship,Social Work
+28,Female,education,Education
+26,Female,teaching,Education
+24,Male,entrepreneurship,Political Science
+27,Male,law enforcement,Criminology
+17,Male,cybersecurity,Financial Management
+29,Female,accounting,Accountancy
+23,Male,entrepreneurship,Criminology
+16,Female,public speaking,Criminology
+25,Female,public speaking,Criminology
+27,Female,psychology,Political Science
+18,Female,arts,Criminology
+22,Male,politics,Political Science
+22,Female,public speaking,Criminology
+23,Male,sports,Financial Management
+26,Male,philosophy,Political Science
+21,Male,cybersecurity,Political Science
+17,Male,gaming,BSIT
+22,Female,teaching,Education
+18,Male,sports,Political Science
+27,Male,finance,Financial Management
+21,Male,law enforcement,Criminology
+18,Female,teaching,Education
+25,Female,teaching,Education
+20,Male,gaming,BSIT
+20,Male,finance,Financial Management
+30,Male,politics,Political Science
+28,Female,public speaking,BSIT
+27,Female,accounting,Accountancy
+16,Male,entrepreneurship,Social Work
+16,Female,numbers,Accountancy
+22,Female,community service,Social Work
+22,Male,philosophy,Political Science
+30,Male,entrepreneurship,Financial Management
+18,Male,philosophy,Political Science
+30,Female,social issues,Social Work
+16,Female,public speaking,Criminology
+28,Male,business,Financial Management
+23,Female,public speaking,Social Work
+16,Male,cybersecurity,Political Science
+29,Female,psychology,Political Science
+29,Female,accounting,Accountancy
+16,Female,accounting,Accountancy
+22,Female,arts,BSIT
+21,Male,law enforcement,Criminology
+17,Male,gaming,BSIT
+26,Female,psychology,Financial Management
+27,Female,arts,Criminology
+16,Male,philosophy,Political Science
+27,Female,public speaking,Social Work
+20,Female,psychology,BSIT
+17,Male,investigation,Criminology
+25,Female,arts,Criminology
+27,Male,law enforcement,Criminology
+20,Female,psychology,Financial Management
+19,Female,children,Education
+25,Female,education,Education
+18,Male,politics,Political Science
+24,Male,history,Political Science
+21,Female,children,BSIT
+16,Female,children,BSIT
+16,Male,tech,BSIT
+18,Male,politics,Political Science
+30,Female,public speaking,Education
+18,Female,community service,Social Work
+27,Female,numbers,Accountancy
+19,Male,philosophy,Political Science
+16,Female,social issues,Social Work
+24,Female,children,Financial Management
+16,Female,children,Financial Management
+16,Female,public speaking,Accountancy
+16,Female,arts,Social Work
+18,Male,business,Financial Management
+27,Female,social issues,Social Work
+27,Female,teaching,Education
+21,Female,psychology,Accountancy
+19,Male,law enforcement,Criminology
+18,Female,teaching,Education
+29,Male,law enforcement,Criminology
+21,Female,numbers,Accountancy
+25,Female,psychology,Social Work
+19,Female,public speaking,Political Science
+17,Male,sports,Criminology
+25,Female,public speaking,Accountancy
+25,Male,cybersecurity,Social Work
+27,Male,investigation,Criminology
+24,Male,networking,BSIT
+29,Male,history,Political Science
+17,Female,community service,Social Work
+29,Male,sports,Criminology
+26,Male,gaming,BSIT
+17,Female,children,Accountancy
+17,Female,public speaking,BSIT
+18,Male,investigation,Criminology
+17,Female,psychology,Education
+26,Female,psychology,Education
+22,Male,business,Financial Management
+16,Male,sports,BSIT
+18,Female,community service,Social Work
+17,Male,history,Political Science
+23,Female,community service,Social Work
+28,Female,numbers,Accountancy
+23,Male,gaming,BSIT
+21,Male,politics,Political Science
+21,Male,networking,BSIT
+29,Female,education,Education
+18,Female,social issues,Social Work
+27,Male,philosophy,Political Science
+23,Female,education,Education
+16,Male,business,Financial Management
+20,Female,teaching,Education
+28,Male,cybersecurity,BSIT
+22,Female,public speaking,Social Work
+23,Male,business,Financial Management
+24,Female,children,Education
+16,Female,teaching,Education
+16,Male,history,Political Science
+30,Male,law enforcement,Criminology
+23,Female,education,Education
+26,Female,numbers,Accountancy
+27,Female,community service,Social Work
+21,Male,philosophy,Political Science
+23,Female,arts,Criminology
+21,Male,finance,Financial Management
+20,Female,teaching,Education
+23,Female,children,Education
+26,Male,sports,Social Work
+17,Female,education,Education
+21,Female,community service,Social Work
+17,Female,community service,Social Work
+27,Male,business,Financial Management
+26,Female,numbers,Accountancy
+29,Female,numbers,Accountancy
+16,Female,psychology,BSIT
+24,Female,social issues,Social Work
+22,Male,networking,BSIT
+30,Male,philosophy,Political Science
+18,Female,psychology,Accountancy
+27,Male,investigation,Criminology
+17,Female,numbers,Accountancy
+16,Female,accounting,Accountancy
+17,Male,law enforcement,Criminology
+25,Male,history,Political Science
+28,Female,numbers,Accountancy
+25,Female,education,Education
+29,Female,education,Education
+30,Female,community service,Social Work
+28,Female,arts,Accountancy
+21,Female,public speaking,Education
+21,Male,tech,BSIT
+29,Male,cybersecurity,Social Work
+29,Female,public speaking,Social Work
+28,Female,psychology,Education
+27,Male,philosophy,Political Science
+16,Male,gaming,BSIT
+16,Male,entrepreneurship,Financial Management
+23,Male,philosophy,Political Science
+25,Male,tech,BSIT
+30,Male,politics,Political Science
+24,Male,tech,BSIT
+21,Male,sports,Accountancy
+29,Female,community service,Social Work
+20,Male,cybersecurity,Financial Management
+27,Female,numbers,Accountancy
+17,Female,education,Education
+18,Female,education,Education
+19,Male,sports,Financial Management
+16,Male,entrepreneurship,BSIT
+27,Female,education,Education
+19,Female,teaching,Education
+19,Male,sports,Financial Management
+24,Male,history,Political Science
+22,Male,business,Financial Management
+25,Male,investigation,Criminology
+30,Female,public speaking,Political Science
+29,Male,networking,BSIT
+21,Female,accounting,Accountancy
+24,Female,education,Education
+28,Male,investigation,Criminology
+23,Female,public speaking,BSIT
+16,Female,social issues,Social Work
+27,Female,education,Education
+17,Male,philosophy,Political Science
+21,Male,law enforcement,Criminology
+16,Female,teaching,Education
+19,Female,children,Financial Management
+17,Male,finance,Financial Management
+25,Male,finance,Financial Management
+21,Male,business,Financial Management
+18,Male,networking,BSIT
+19,Female,psychology,Social Work
+18,Female,numbers,Accountancy
+27,Female,numbers,Accountancy
+22,Female,public speaking,Financial Management
+26,Female,public speaking,Criminology
+22,Male,gaming,BSIT
+23,Female,accounting,Accountancy
+17,Female,public speaking,Political Science
+30,Male,finance,Financial Management
+23,Female,psychology,Social Work
+25,Female,public speaking,Education
+16,Female,accounting,Accountancy
+26,Female,numbers,Accountancy
+16,Male,gaming,BSIT
+28,Male,networking,BSIT
+24,Male,investigation,Criminology
+16,Male,cybersecurity,Education
+30,Male,cybersecurity,Accountancy
+22,Male,business,Financial Management
+28,Male,gaming,BSIT
