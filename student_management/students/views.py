@@ -75,7 +75,7 @@ def predict_course(request):
             interest = request.POST.get("interest")
 
             gender_encoded = 0 if gender.lower() == "male" else 1
-            interest_encoded = interest_map.get(interest)
+            interest_encoded = interest_map.get(interest.lower())
 
             if interest_encoded is None:
                 return JsonResponse({"error": "Unknown interest"}, status=400)
