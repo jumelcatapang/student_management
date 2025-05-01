@@ -16,7 +16,7 @@ Age,Gender,Interest,Course
 19,Male,forensics,Criminology
 29,Male,tech,BSIT
 17,Male,investment,Financial Management
-30,Male,tech,BSIT
+30,Male,data science,BSIT
 28,Female,forensics,Criminology
 30,Male,child education,Education
 17,Male,volunteering,Social Work
@@ -38,11 +38,11 @@ Age,Gender,Interest,Course
 18,Male,recruitment,Human Resource Management
 25,Female,training,Human Resource Management
 29,Male,philosophy,Political Science
-30,Male,gaming,BSIT
+30,Male,data science,BSIT
 19,Male,conflict resolution,Human Resource Management
 21,Male,gaming,BSIT
 26,Male,community service,Social Work
-20,Male,tech,BSIT
+20,Male,data science,BSIT
 21,Female,law enforcement,Criminology
 27,Male,psychology,Social Work
 19,Male,community service,Social Work
@@ -53,7 +53,7 @@ Age,Gender,Interest,Course
 18,Female,volunteering,Social Work
 16,Male,lesson planning,Education
 28,Male,tech,BSIT
-19,Male,cybersecurity,BSIT
+19,Male,data science,BSIT
 30,Male,numbers,Accountancy
 24,Male,forensics,Criminology
 21,Male,community service,Social Work
@@ -80,7 +80,7 @@ Age,Gender,Interest,Course
 18,Female,cybersecurity,BSIT
 19,Male,philosophy,Political Science
 20,Female,coding,BSIT
-24,Male,coding,BSIT
+24,Male,data science,BSIT
 17,Female,coding,BSIT
 23,Female,bookkeeping,Accountancy
 30,Female,politics,Political Science
@@ -106,11 +106,11 @@ Age,Gender,Interest,Course
 20,Female,law enforcement,Criminology
 27,Female,numbers,Accountancy
 28,Female,child education,Education
-28,Female,gaming,BSIT
+28,Female,data science,BSIT
 20,Female,training,Human Resource Management
 27,Male,community service,Social Work
 28,Female,psychology,Social Work
-29,Female,tech,BSIT
+29,Female,data science,BSIT
 26,Female,accounting,Accountancy
 29,Female,lesson planning,Education
 18,Female,business,Financial Management
@@ -127,7 +127,7 @@ Age,Gender,Interest,Course
 30,Male,gaming,BSIT
 16,Female,lesson planning,Education
 28,Male,investigation,Criminology
-16,Male,coding,BSIT
+16,Male,data science,BSIT
 17,Female,bookkeeping,Accountancy
 28,Female,history,Political Science
 30,Male,community service,Social Work
@@ -152,7 +152,7 @@ Age,Gender,Interest,Course
 29,Male,investigation,Criminology
 30,Female,philosophy,Political Science
 21,Male,public speaking,Human Resource Management
-20,Female,networking,BSIT
+20,Female,data science,BSIT
 24,Female,gaming,BSIT
 25,Male,lesson planning,Education
 19,Male,volunteering,Social Work
@@ -179,7 +179,7 @@ Age,Gender,Interest,Course
 21,Female,recruitment,Human Resource Management
 19,Female,law enforcement,Criminology
 17,Male,investment,Financial Management
-30,Female,cybersecurity,BSIT
+30,Female,data science,BSIT
 17,Female,bookkeeping,Accountancy
 22,Female,philosophy,Political Science
 22,Male,numbers,Accountancy

@@ -9,6 +9,13 @@ from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 
 
+
+def get_interest_choices():
+    interests = StudentInfo.objects.values_list('interest', flat=True).distinct()
+    choices = [(i, i.title()) for i in interests if i]  # avoid None/empty
+    return choices
+
+
 # This view handles the home page and student listing.
 def home(request):
     query = request.GET.get('q')
@@ -33,7 +40,9 @@ def add_students(request):
             return redirect('home')
     else:
         form = StudentForm()
+        form.fields['interest'].choices = INTEREST_CHOICES
     return render(request, 'students/form.html', {'form': form, 'title': 'Add Student'})
+
 
 # This view handles the editing of an existing student.
 def edit_students(request, pk):
@@ -45,7 +54,9 @@ def edit_students(request, pk):
             return redirect('home')
     else:
         form = StudentForm(instance=student)
+        form.fields['interest'].choices = INTEREST_CHOICES
     return render(request, 'students/form.html', {'form': form, 'title': 'Edit Student'})
+
 
 # This view handles the deletion of a student.
 def delete_students(request, pk):
@@ -65,6 +76,9 @@ interest_map_path = os.path.join(BASE_DIR, 'machine_learning', 'interest_mapping
 
 model = joblib.load(model_path)
 interest_map = joblib.load(interest_map_path)
+
+# Convert interest_map keys to choices for dropdown
+INTEREST_CHOICES = sorted([(key, key.title()) for key in interest_map.keys()], key=lambda x: x[1])
 
 @csrf_exempt
 def predict_course(request):

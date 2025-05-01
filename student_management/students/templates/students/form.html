@@ -77,7 +77,12 @@
                     {% elif field.name == 'email' %}
                     <input type="email" class="form-control" name="{{ field.name }}" id="id_{{ field.name }}" placeholder="Ex. juan@gmail.com" value="{{ field.value|default:'' }}" />
                     {% elif field.name == 'interest' %}
-                    <input type="text" class="form-control" name="{{ field.name }}" id="id_{{ field.name }}" placeholder="Ex. coding, programming, etc." value="{{ field.value|default:'' }}" />
+                    <select class="form-select" name="{{ field.name }}" id="id_{{ field.name }}">
+                        <option value="">Select interest</option>  <!-- Optional default -->
+                        {% for val, label in field.field.choices %}
+                            <option value="{{ val }}" {% if field.value == val %}selected{% endif %}>{{ label }}</option>
+                        {% endfor %}
+                    </select>
                     {% else %}
                     {{ field }}
                     {% endif %}
