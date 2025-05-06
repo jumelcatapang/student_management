@@ -1,0 +1,36 @@
+{% extends "admin/change_list.html" %}
+{% load static %}
+
+{% block content %}
+  {{ block.super }}
+
+  <h2 style="margin-top: 40px;">RECENT ACTIONS</h2>
+
+  <div style="display: flex; gap: 40px;">
+    <div style="width: 50%;">
+      <h3>Changes made by Admin:</h3>
+      <ul>
+        {% for entry in admin_logs %}
+          <li>
+            <strong>{{ entry.action_time }}</strong> – {{ entry.user }} – {{ entry.get_change_message }}
+          </li>
+        {% empty %}
+          <li>No recent admin changes.</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div style="width: 50%;">
+      <h3>Changes made by User:</h3>
+      <ul>
+        {% for entry in user_logs %}
+          <li>
+            <strong>{{ entry.action_time }}</strong> – {{ entry.user }} – {{ entry.get_change_message }}
+          </li>
+        {% empty %}
+          <li>No recent user changes.</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+{% endblock %}
