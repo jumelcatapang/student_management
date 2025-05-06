@@ -71,17 +71,18 @@
 
                     <!-- Add placeholder for specific fields -->
                     {% if field.name == 'name' %}
-                    <input type="text" class="form-control" name="{{ field.name }}" placeholder="Ex. Juan Dela Cruz"
-                        value="{{ field.value|default:'' }}" />
+                    <input type="text" class="form-control" name="{{ field.name }}" id="id_{{ field.name }}" placeholder="Ex. Juan Dela Cruz" value="{{ field.value|default:'' }}" />
                     {% elif field.name == 'address' %}
-                    <input type="text" class="form-control" name="{{ field.name }}" placeholder="Ex. 123 poblacion St., Malabon City"
-                        value="{{ field.value|default:'' }}" />
+                    <input type="text" class="form-control" name="{{ field.name }}" id="id_{{ field.name }}" placeholder="Ex. 123 poblacion St., Malabon City" value="{{ field.value|default:'' }}" />
                     {% elif field.name == 'email' %}
-                    <input type="email" class="form-control" name="{{ field.name }}" placeholder="Ex. juan@gmail.com"
-                        value="{{ field.value|default:'' }}" />
+                    <input type="email" class="form-control" name="{{ field.name }}" id="id_{{ field.name }}" placeholder="Ex. juan@gmail.com" value="{{ field.value|default:'' }}" />
                     {% elif field.name == 'interest' %}
-                    <input type="text" class="form-control" name="{{ field.name }}" placeholder="Ex. coding, programming, etc."
-                        value="{{ field.value|default:'' }}" />
+                    <select class="form-select" name="{{ field.name }}" id="id_{{ field.name }}">
+                        <option value="">Select interest</option>  <!-- Optional default -->
+                        {% for val, label in field.field.choices %}
+                            <option value="{{ val }}" {% if field.value == val %}selected{% endif %}>{{ label }}</option>
+                        {% endfor %}
+                    </select>
                     {% else %}
                     {{ field }}
                     {% endif %}
@@ -98,6 +99,58 @@
                     </script>
                 </div>
                 {% endfor %}
+
+                <!---Machine Learning-->
+                <div class="mt-3">
+                    <button type="button" class="btn btn-info w-100" onclick="suggestCourse()">Suggest Course</button>
+                    <div id="suggested-course" class="mt-2 fw-bold text-success text-center"></div>
+                </div>
+
+                <script>
+                    function suggestCourse() {
+                        const age = document.getElementById("id_age").value;
+                        const gender = document.getElementById("id_gender").value;
+                        const interest = document.getElementById("id_interest").value;
+                    
+                        const formData = new FormData();
+                        formData.append("age", age);
+                        formData.append("gender", gender);
+                        formData.append("interest", interest);
+                    
+                        fetch("{% url 'predict_course' %}", {
+                            method: "POST",
+                            headers: {
+                                'X-CSRFToken': getCSRFToken()
+                            },
+                            body: formData
+                        })
+                        .then(response => response.json())
+                        .then(data => {
+                            if (data.predicted_course) {
+                                document.getElementById("suggested-course").innerText = "Suggested Course: " + data.predicted_course;
+                            } else {
+                                document.getElementById("suggested-course").innerText = "Error: " + (data.error || "Invalid input.");
+                            }
+                        })
+                        .catch(error => {
+                            console.error("Prediction error:", error);
+                            document.getElementById("suggested-course").innerText = "Error occurred during prediction.";
+                        });
+                    }
+                    
+                    // Get CSRF token from cookies
+                    function getCSRFToken() {
+                        let csrfToken = null;
+                        document.cookie.split(";").forEach(cookie => {
+                            const [name, value] = cookie.trim().split("=");
+                            if (name === "csrftoken") {
+                                csrfToken = decodeURIComponent(value);
+                            }
+                        });
+                        return csrfToken;
+                    }
+                </script>
+                
 
                 <div class="d-flex justify-content-between">
                     <button type="submit" class="btn btn-success">Save</button>
